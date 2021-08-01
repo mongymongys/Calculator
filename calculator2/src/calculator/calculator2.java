@@ -19,7 +19,7 @@ public class calculator2 {
                 if(checkChar(operation)){
                     break;
                 }else {
-                    System.out.println("fuck you");
+                    System.out.println("please enter a valid char");
                 }
             }
 
